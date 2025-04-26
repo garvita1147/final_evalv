@@ -5,7 +5,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     overflow-x: hidden;
 }
-img:hover{
+img:hover effect{
     transform: scale(1.2);
     transition: 1s;
 }
